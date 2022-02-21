@@ -3,7 +3,7 @@
 ![alt text](http://recabn.ac.in/wp-content/themes/pradeep/new-images/logo.png)  
 ## राजकीय इंजीनियरिंग कॉलेज, अम्बेडकर नगरRAJKIYA ENGINEERING COLLEGE, AMBEDKAR NAGAR ( affiliated to Dr. APJAKTU, Lucknow. (College Code 737)
  
-# Project : Clustering in Medical Using Quantum inspired by grey wolf  optimizer
+# Project : Clustering in Medical Diagnosis Using Quantum inspired grey wolf  optimizer
 ### Project Group :No. 9 allotted project no.29  (2022 passout )
 <img src="https://miro.medium.com/max/700/1*-G5OG46a9bXzldEeE5nDUQ.png" width="1250" height="400"> 
 
